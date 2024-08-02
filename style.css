@@ -1,0 +1,121 @@
+body{
+    font-family: "Montserrat", sans-serif;
+}
+.color-special{
+    color: #FC8F49;
+}
+.color-regular{
+    color: #575757;
+}
+.h1-tag{
+    font-weight: 700;
+    font-size: 4em;
+    margin: 0;
+}
+.h3-tag{
+    font-weight: 700;
+    font-size: 4em;
+}
+.section-container-1{
+    display: flex;
+    background-image: url(image/Group\ 88.png);
+    background-repeat: no-repeat;
+    background-position: 85% 95% ;
+}
+.section-left{
+    width: 50%;
+    margin-top: 200px;
+    margin-left: 200px;
+}
+.section-left p{
+    margin-bottom: 50px;
+}
+.section-right{
+    width: 50%;
+}
+.button-edit{
+    text-decoration: none;
+    background-image: linear-gradient(orange, tomato);
+    padding: 20px 30px;
+    color: white;
+    border-radius: 50px;
+    font-weight: 600;
+}
+.section-container-2{
+    display: flex;
+    background-image: url(image/7.png);
+    background-size: cover;
+}
+
+.big-image-middle img{
+    height: 700px;
+    margin-left: 300px;
+    margin-top: 100px;
+}
+
+.section-container-3{
+    display: flex;
+}
+
+.section-product{
+    width: 20%;
+    margin-left: 8%;
+    margin-top: 50px;
+    margin-bottom: 150px;
+    box-shadow: 10px 10px 40px gray;
+    padding: 20px 20px;
+    border-radius: 20px;
+}
+.section-product img{
+    width: 100%;
+}
+
+.section-recipie{
+    text-align: center;
+}
+
+.section-container-4{
+    display: flex;
+}
+
+.single-showcase{
+    display: flex;
+    width: 85%;
+    margin-left: 7.5%;
+    box-shadow: 10px 10px 40px gray;
+    border-radius: 20px;
+    margin-bottom: 100px;
+    height: 200px;
+}
+
+.left-div{
+    margin-left: 100px;
+}
+.middle-div{
+    margin-left: 400px;
+}
+.right-div{
+    margin-left: 500px;
+}
+
+.single-showcase h3{
+    font-weight: 700;
+    font-size: 3em;
+    margin-bottom: 0;
+}
+
+.last-container{
+    background-color: #0B0D17;
+    text-align: center;
+    height: 200px;
+}
+.last-container p{
+    color: white;
+}
+.h3-tag-footer{
+    font-weight: 700;
+    font-size: 4em;
+    margin: 0;
+    padding-top: 50px;
+    color: white;
+}
